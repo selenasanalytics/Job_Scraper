@@ -1,9 +1,11 @@
 # 🟦 Indeed — Environmental / Toxicology Roles
-*Last updated: 2026-11-12 13:09 UTC*
+*Last updated: 2026-11-13 21:47 UTC*
 
-**1 new role(s)** since last run · 3 total in last 24h
+**1 new role(s)** since last run · 1 total in last 24h
 
-### [Early-Career Environmental Scientist - Contaminated Land](https://au.indeed.com/viewjob?jk=cf5836cfc8c8bfea) — Tetra Tech
-- 📍 **Location:** Perth, WA, Australia
+### [SENIOR ENVIRONMENTAL SCIENTIST (SUPERVISORY)](https://www.indeed.com/viewjob?jk=de6ebc5e72fa864c) — California Department of Pesticide Regulation
+- 📍 **Location:** CA, USA
+- 💰 **Salary:** $11k–$13k/mo
 - **Work mode:** On-site
-- 🕒 **Posted:** 2026-11-12
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-11-13

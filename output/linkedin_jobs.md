@@ -1,139 +1,100 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-11-20 02:05 UTC*
+*Last updated: 2026-11-20 06:47 UTC*
 
-**28 new role(s)** since last run · 28 total in last 1h
+**20 new role(s)** since last run · 20 total in last 1h
 
-### [Senior Environmental Specialist- Minnesota, Wisconsin, Iowa](https://www.linkedin.com/jobs/view/4459886134/) — Ulteig
-- 📍 **Location:** Minnesota, United States
-- 💰 **Salary:** $134,300- $181,800
+### [Environmental Science Expert (Masters/PhDs)](https://www.linkedin.com/jobs/view/4492758956/) — Alignerr
+- 📍 **Location:** Sydney, New South Wales, Australia
+- 💰 **Salary:** $75.00/hr - $90.00/hr
 - 🕒 **Posted:** 2026-11-20
 
-### [Mid-Level Radiation Health Physicist - Environmental Remediation](https://www.linkedin.com/jobs/view/4492748536/) — Jacobs
-- 📍 **Location:** Boise, ID
-- 💰 **Salary:** $93,500.00/yr - $130,000.00/yr
+### [Project Manager - Remediation](https://www.linkedin.com/jobs/view/4492755898/) — Insignia Financial
+- 📍 **Location:** Sydney, New South Wales, Australia
 - 🕒 **Posted:** 2026-11-20
 
-### [Mid-Level Radiation Health Physicist - Environmental Remediation](https://www.linkedin.com/jobs/view/4492742638/) — Jacobs
-- 📍 **Location:** Dallas, TX
-- 💰 **Salary:** $93,500.00/yr - $130,000.00/yr
+### [Project Manager - Remediation](https://www.linkedin.com/jobs/view/4492763697/) — Insignia Financial
+- 📍 **Location:** Docklands, Victoria, Australia
 - 🕒 **Posted:** 2026-11-20
 
-### [Mid-Level Radiation Health Physicist - Environmental Remediation](https://www.linkedin.com/jobs/view/4492732836/) — Jacobs
-- 📍 **Location:** Denver, CO
-- 💰 **Salary:** $93,500.00/yr - $130,000.00/yr
+### [Senior Environmental Specialist](https://www.linkedin.com/jobs/view/4491684823/) — Department of Transport and Planning
+- 📍 **Location:** Sunshine West, Victoria, Australia
 - 🕒 **Posted:** 2026-11-20
 
-### [Environmental Health Specialist I, II, III](https://www.linkedin.com/jobs/view/4445780750/) — County of Riverside
-- 📍 **Location:** Riverside County, CA
-- 💰 **Salary:** $63,546.87 - $98,363.36 Annually
+### [Environmental Project Manager - Remediation Focus](https://www.linkedin.com/jobs/view/4492513494/) — AECOM
+- 📍 **Location:** Phoenix, AZ
+- 💰 **Salary:** $100000 to $130000
 - 🕒 **Posted:** 2026-11-20
 
-### [Adjunct Faculty - Environmental Science - Alexandria Campus](https://www.linkedin.com/jobs/view/4492523658/) — Virginia's Community College System
-- 📍 **Location:** Richmond, VA
+### [Water Resources Specialist Assistant I](https://www.linkedin.com/jobs/view/4491488746/) — Eastern Municipal Water District
+- 📍 **Location:** Perris, CA
+- 💰 **Salary:** $40.32 - $50.22
 - 🕒 **Posted:** 2026-11-20
 
-### [Air Quality Project Manager (5+ yr)](https://www.linkedin.com/jobs/view/4492750503/) — talisman
-- 📍 **Location:** Texas, United States
+### [Lead Historian (Environmental Analyst IV)](https://www.linkedin.com/jobs/view/4492785290/) — Maryland Department of Transportation
+- 📍 **Location:** Baltimore, MD
 - 🕒 **Posted:** 2026-11-20
 
-### [Mid-Level Radiation Health Physicist - Environmental Remediation](https://www.linkedin.com/jobs/view/4492731885/) — Jacobs
-- 📍 **Location:** Redding, CA
-- 💰 **Salary:** $93,500.00/yr - $130,000.00/yr
+### [Environmental Compliance Specialist](https://www.linkedin.com/jobs/view/4492748200/) — California Department of Housing & Community Development
+- 📍 **Location:** Sacramento, CA
+- 💰 **Salary:** $7,276.00/mo - $9,107.00/mo
 - 🕒 **Posted:** 2026-11-20
 
-### [Radiation Health Physicist - Environmental Remediation](https://www.linkedin.com/jobs/view/4492746565/) — Jacobs
-- 📍 **Location:** West Des Moines, IA
-- 💰 **Salary:** $52,700.00/yr - $75,000.00/yr
+### [Environmental Remediation Project Manager](https://www.linkedin.com/jobs/view/4492789432/) — Jacobs
+- 📍 **Location:** Pensacola, FL
+- 💰 **Salary:** $93,700.00/yr - $135,000.00/yr
 - 🕒 **Posted:** 2026-11-20
 
-### [Mid-Level Radiation Health Physicist - Environmental Remediation](https://www.linkedin.com/jobs/view/4492750438/) — Jacobs
-- 📍 **Location:** Yakima, WA
-- 💰 **Salary:** $93,500.00/yr - $130,000.00/yr
+### [Environmental Remediation Project Manager](https://www.linkedin.com/jobs/view/4492785494/) — Jacobs
+- 📍 **Location:** Jacksonville, FL
+- 💰 **Salary:** $93,700.00/yr - $135,000.00/yr
 - 🕒 **Posted:** 2026-11-20
 
-### [Mid-Level Radiation Health Physicist - Environmental Remediation](https://www.linkedin.com/jobs/view/4492741704/) — Jacobs
-- 📍 **Location:** Virginia Beach, VA
-- 💰 **Salary:** $93,500.00/yr - $130,000.00/yr
+### [Environmental Remediation Project Manager](https://www.linkedin.com/jobs/view/4492794367/) — Jacobs
+- 📍 **Location:** Montgomery, AL
+- 💰 **Salary:** $93,700.00/yr - $135,000.00/yr
 - 🕒 **Posted:** 2026-11-20
 
-### [Radiation Health Physicist - Environmental Remediation](https://www.linkedin.com/jobs/view/4492733833/) — Jacobs
-- 📍 **Location:** Salt Lake City, UT
-- 💰 **Salary:** $52,700.00/yr - $75,000.00/yr
+### [Environmental Remediation Project Manager](https://www.linkedin.com/jobs/view/4492785496/) — Jacobs
+- 📍 **Location:** Orlando, FL
+- 💰 **Salary:** $93,700.00/yr - $135,000.00/yr
 - 🕒 **Posted:** 2026-11-20
 
-### [Radiation Health Physicist - Environmental Remediation](https://www.linkedin.com/jobs/view/4492739698/) — Jacobs
-- 📍 **Location:** Denver, CO
-- 💰 **Salary:** $52,700.00/yr - $75,000.00/yr
+### [Environmental Remediation Project Manager](https://www.linkedin.com/jobs/view/4492788509/) — Jacobs
+- 📍 **Location:** New Orleans, LA
+- 💰 **Salary:** $93,700.00/yr - $135,000.00/yr
 - 🕒 **Posted:** 2026-11-20
 
-### [Radiation Health Physicist - Environmental Remediation](https://www.linkedin.com/jobs/view/4492752343/) — Jacobs
-- 📍 **Location:** Dallas, TX
-- 💰 **Salary:** $52,700.00/yr - $75,000.00/yr
+### [Environmental Remediation Project Manager](https://www.linkedin.com/jobs/view/4492798196/) — Jacobs
+- 📍 **Location:** Tampa, FL
+- 💰 **Salary:** $93,700.00/yr - $135,000.00/yr
 - 🕒 **Posted:** 2026-11-20
 
-### [Radiation Health Physicist - Environmental Remediation](https://www.linkedin.com/jobs/view/4492750436/) — Jacobs
-- 📍 **Location:** Boise, ID
-- 💰 **Salary:** $52,700.00/yr - $75,000.00/yr
+### [Senior Manager, Toxicology](https://www.linkedin.com/jobs/view/4492784608/) — BD
+- 📍 **Location:** Temecula, CA
+- 💰 **Salary:** $164,600.00 - $263,400.00 USD
 - 🕒 **Posted:** 2026-11-20
 
-### [Radiation Health Physicist - Environmental Remediation](https://www.linkedin.com/jobs/view/4492743643/) — Jacobs
-- 📍 **Location:** Seattle, WA
-- 💰 **Salary:** $52,700.00/yr - $75,000.00/yr
+### [Senior Manager, Toxicology](https://www.linkedin.com/jobs/view/4492786533/) — BD
+- 📍 **Location:** Maitland, FL
+- 💰 **Salary:** $164,600.00 - $263,400.00 USD
 - 🕒 **Posted:** 2026-11-20
 
-### [Radiation Health Physicist - Environmental Remediation](https://www.linkedin.com/jobs/view/4492737761/) — Jacobs
-- 📍 **Location:** Tempe, AZ
-- 💰 **Salary:** $52,700.00/yr - $75,000.00/yr
+### [Senior Manager, Toxicology](https://www.linkedin.com/jobs/view/4492785527/) — BD
+- 📍 **Location:** Miami, FL
+- 💰 **Salary:** $164,600.00 - $263,400.00 USD
 - 🕒 **Posted:** 2026-11-20
 
-### [Radiation Health Physicist - Environmental Remediation](https://www.linkedin.com/jobs/view/4492753037/) — Jacobs
-- 📍 **Location:** Portland, OR
-- 💰 **Salary:** $52,700.00/yr - $75,000.00/yr
+### [Senior Manager, Toxicology](https://www.linkedin.com/jobs/view/4492789461/) — BD
+- 📍 **Location:** Irvine, CA
+- 💰 **Salary:** $164,600.00 - $263,400.00 USD
 - 🕒 **Posted:** 2026-11-20
 
-### [Radiation Health Physicist - Environmental Remediation](https://www.linkedin.com/jobs/view/4492747525/) — Jacobs
-- 📍 **Location:** Redding, CA
-- 💰 **Salary:** $52,700.00/yr - $75,000.00/yr
+### [Senior Manager, Toxicology](https://www.linkedin.com/jobs/view/4492784607/) — BD
+- 📍 **Location:** San Jose, CA
+- 💰 **Salary:** $164,600.00 - $263,400.00 USD
 - 🕒 **Posted:** 2026-11-20
 
-### [Radiation Health Physicist - Environmental Remediation](https://www.linkedin.com/jobs/view/4492739699/) — Jacobs
-- 📍 **Location:** Greenville, SC
-- 💰 **Salary:** $52,700.00/yr - $75,000.00/yr
+### [Senior Manager, Toxicology](https://www.linkedin.com/jobs/view/4492786534/) — BD
+- 📍 **Location:** Milpitas, CA
+- 💰 **Salary:** $164,600.00 - $263,400.00 USD
 - 🕒 **Posted:** 2026-11-20
-
-### [Radiation Health Physicist - Environmental Remediation](https://www.linkedin.com/jobs/view/4492736837/) — Jacobs
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $52,700.00/yr - $75,000.00/yr
-- 🕒 **Posted:** 2026-11-20
-
-### [Radiation Health Physicist - Environmental Remediation](https://www.linkedin.com/jobs/view/4492744605/) — Jacobs
-- 📍 **Location:** San Diego, CA
-- 💰 **Salary:** $52,700.00/yr - $75,000.00/yr
-- 🕒 **Posted:** 2026-11-20
-
-### [Mid-Level Radiation Health Physicist - Environmental Remediation](https://www.linkedin.com/jobs/view/4492732838/) — Jacobs
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $93,500.00/yr - $130,000.00/yr
-- 🕒 **Posted:** 2026-11-20
-
-### [Mid-Level Radiation Health Physicist - Environmental Remediation](https://www.linkedin.com/jobs/view/4492741702/) — Jacobs
-- 📍 **Location:** San Diego, CA
-- 💰 **Salary:** $93,500.00/yr - $130,000.00/yr
-- 🕒 **Posted:** 2026-11-20
-
-### [Hazardous Waste Project Manager](https://www.linkedin.com/jobs/view/4492707721/) — Clean Harbors
-- 📍 **Location:** Clackamas, OR
-- 💰 **Salary:** $41,500.00/yr - $133,303.00/yr
-- 🕒 **Posted:** 2026-11-19
-
-### [Water Laboratory - Water Quality Analyst Level 2](https://www.linkedin.com/jobs/view/4492741291/) — Sydney Water
-- 📍 **Location:** Macquarie Park, New South Wales, Australia
-- 🕒 **Posted:** 2026-11-19
-
-### [Senior Environmental Specialist](https://www.linkedin.com/jobs/view/4492751238/) — Marathon Petroleum Corporation
-- 📍 **Location:** Boise, ID
-- 🕒 **Posted:** 2026-11-19
-
-### [Senior Environmental Specialist](https://www.linkedin.com/jobs/view/4492735693/) — Marathon Petroleum Corporation
-- 📍 **Location:** Salt Lake City, UT
-- 🕒 **Posted:** 2026-11-19

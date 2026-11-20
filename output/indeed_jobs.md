@@ -1,44 +1,18 @@
 # 🟦 Indeed — Environmental / Toxicology Roles
-*Last updated: 2026-11-20 03:46 UTC*
+*Last updated: 2026-11-20 12:14 UTC*
 
-**6 new role(s)** since last run · 6 total in last 24h
+**2 new role(s)** since last run · 5 total in last 24h
 
-### [ENVIRONMENTAL SCIENTIST](https://www.indeed.com/viewjob?jk=4c526c1fbdf56545) — Department Of Food & Agriculture
-- 📍 **Location:** CA, USA
-- 💰 **Salary:** $4551–$9787/mo
+### [Environmental Analyst or Associate Environmental Scientist](https://www.indeed.com/viewjob?jk=5923379929a55f57) — SAN FRANCISCO ESTUARY INSTITUTE
+- 📍 **Location:** Richmond, CA, USA
+- 💰 **Salary:** $88k–$98k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-11-19
+- 🕒 **Posted:** 2026-11-20
 
-### [Environmental Scientist](https://www.indeed.com/viewjob?jk=c27acf49667fc27e) — Provost & Pritchard
-- 📍 **Location:** Visalia, CA, USA
-- 💰 **Salary:** $35–$50/hr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-11-19
-
-### [Water Resources Analyst / Environmental Scientist / Hydrologist (3+ Years Experience)](https://www.indeed.com/viewjob?jk=8ce0c3878a244439) — Wagner & Bonsignore, CCE
-- 📍 **Location:** Sacramento, CA, USA
-- 💰 **Salary:** $90k–$140k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-11-19
-
-### [Wastewater Storm Water Drinking Water Coordinator](https://www.indeed.com/viewjob?jk=9b888fcec4700dd1) — BB&E
-- 📍 **Location:** Mountain View, CA, USA
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-11-19
-
-### [SENIOR ENVIRONMENTAL SCIENTIST (SUPERVISORY)](https://www.indeed.com/viewjob?jk=4d808a4e58f4d8f5) — California Department of Pesticide Regulation
-- 📍 **Location:** CA, USA
-- 💰 **Salary:** $11k–$13k/mo
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-11-19
-
-### [Wastewater Storm Water Drinking Water Lead](https://www.indeed.com/viewjob?jk=071a7e522745649f) — BB&E
-- 📍 **Location:** Mountain View, CA, USA
+### [Supervisory Environmental Protection Specialist- DIRECT HIRE](https://www.indeed.com/viewjob?jk=f420e51dfda13cdc) — US Federal Transit Administration
+- 📍 **Location:** Los Angeles, CA, USA
+- 💰 **Salary:** $169k–$197k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-11-19
